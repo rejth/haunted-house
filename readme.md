@@ -1,4 +1,4 @@
-# Hounted House
+# Haunted House
 
 ## Setup
 
